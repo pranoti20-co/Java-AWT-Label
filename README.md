@@ -49,4 +49,4 @@ class LabelDemo {
         f.setVisible(true);
     }
 }
-output ( )
+output (Screenshot_2026-05-04-18-37-24-07_c37d74246d9c81aa0bb824b57eaf7062.jpg )
